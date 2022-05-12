@@ -4,7 +4,7 @@
 
 - :white_flag: &nbsp; Brazilian
 - :thinking: &nbsp; Exploring new technologies every day...
-- :seedling: &nbsp; Learning more about JavaScript, .LUA, Python and FiveM Development.
+- :seedling: &nbsp; Learning more about Python, PHP and Data Science.
 
 <!-- - :mortar_board: &nbsp; I'm still coursing "software engineer" at <a href="https://cotuca.unicamp.br/cotuca/%22%3ECOTUCA</a>. -->
 
@@ -12,12 +12,17 @@
 
 - :globe_with_meridians: &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 - :gear: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - :wrench: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![VIM](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=009032)
+  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=ffffff)
+  ![PHPStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=phpstorm&logoColor=ffffff)
+
+  
 
 <br/>
 

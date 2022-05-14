@@ -19,8 +19,8 @@
 - :wrench: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![VIM](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=009032)
-  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=ffffff)
-  ![PHPStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=phpstorm&logoColor=ffffff)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=ffffff)
+  ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=ffffff)
 
   
 

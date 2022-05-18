@@ -1,34 +1,26 @@
-<h2> Hey! I'm Amgarten.</h2>
+## Hey! I'm Amgarten
 
-<h3> :man_technologist: |&nbsp;Personal information...</h3>
+-
+-
+-
 
-- :white_flag: &nbsp; Brazilian
-- :thinking: &nbsp; Exploring new technologies every day...
-- :seedling: &nbsp; Learning more about Python, PHP and Data Science.
-
-<!-- - :mortar_board: &nbsp; I'm still coursing "software engineer" at <a href="https://cotuca.unicamp.br/cotuca/%22%3ECOTUCA</a>. -->
-
-<h3> :hammer_and_wrench: |&nbsp;Some technologies...</h3>
-
-- :globe_with_meridians: &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-- :gear: &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- :wrench: &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![VIM](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=009032)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=ffffff)
-  ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=ffffff)
-
+<div>
+  <a href="https://github.com/Amgarten2003"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amgarten2003&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amgarten2003&layout=compact&langs_count=16&theme=github_dark" />
+</div>
   
+<div>
+  <img align="center" alt="Amgarten-Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
 
-<br/>
+##
 
-<h3> :gear: | GitHub Analytics </h3>
+<div>
+  <a href="https://www.hackerrank.com/amgarten"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  <a href="https://amgartensteam.slack.com"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <a href="mailto:joaoamgarten2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/_amgartn_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amgarten2003&theme=react&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amgarten2003&theme=react&layout=compact"/>
-
-<br/>
+  ![Snake animation](https://github.com/Amgarten2003/Amgarten2003/blob/output/github-contribution-grid-snake.svg)    
+</div>

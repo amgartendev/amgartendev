@@ -1,6 +1,6 @@
 ## Hey! I'm Amgarten
 
-<div>
+<div align="center">
   <a href="https://github.com/Amgarten2003"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amgarten2003&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amgarten2003&layout=compact&langs_count=16&theme=github_dark" />
@@ -8,7 +8,8 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Amgarten-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" alt="Me :)" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/948936226730299452/976511991927676938/ezgif.com-gif-maker_1.gif" />
+  <img align="right" alt="Me :)" height="150" style="border-radius:50px;"
+src="https://i.ibb.co/MhydbKj/MeAsAGif.gif" />
 </div>
 
 ##

@@ -16,7 +16,4 @@
   <a href="https://amgartensteam.slack.com" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
   <a href="mailto:joaoamgarten2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_amgartn_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/amgartendev/amgartendev/blob/output/github-contribution-grid-snake.svg)
- 
 </div>

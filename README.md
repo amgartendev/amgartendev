@@ -1,19 +1,50 @@
-## Hey! I'm Amgarten, and this is my GitHub profile :)
-<div align="left">
-  <a href="https://github.com/amgartendev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amgartendev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgartendev&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-<!--<div style="display: inline_block"><br>
-  <img align="center" alt="Amgarten-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Me :)" height="150" style="border-radius:50px;" src="https://i.ibb.co/MhydbKj/MeAsAGif.gif">
-</div>-->
-  
-##
+<h3 align="center">A passionate software developer from willing to be a Data Scientist 🚀</h3>
+
+<br/>
+
+<div align="center">
  
-<div> 
-  <a href="https://www.hackerrank.com/amgarten" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
-  <a href="https://amgartensteam.slack.com" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
-  <a href="mailto:joaoamgarten2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_amgartn_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+🔭 I’m currently working on **a chat app**
+ 
+🌱 I’m currently learning **FastAPI and SQLAlchemy**
+
+⚡ Fun fact **Bananas are berries, but strawberries aren’t!**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:joaoamgarten2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/amgarten/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,javascript,html,css,figma," /><br>
+</div>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-amgartendev.vercel.app/?user=amgartendev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-amgartendev.vercel.app/api?username=amgartendev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-amgartendev.vercel.app/api/top-langs/?username=amgartendev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>

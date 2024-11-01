@@ -1,4 +1,4 @@
-<h3 align="center">A passionate software developer from willing to be a Data Scientist 🚀</h3>
+<h3 align="center">A passionate software developer willing to be a Data Scientist 🚀</h3>
 
 <br/>
 

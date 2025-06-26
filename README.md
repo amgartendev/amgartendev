@@ -27,7 +27,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,javascript,php,html,css,figma,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=python,dart,flutter,fastapi,mysql,javascript,php,html,css,figma,wordpress" /><br>
 </div>
 
 <br/>

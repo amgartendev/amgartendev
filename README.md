@@ -4,9 +4,9 @@
 
 <div align="center">
  
-🔭 I’m currently working on **a chat app**
+🔭 I’m currently working on **Multi-Platform app**
  
-🌱 I’m currently learning **FastAPI and SQLAlchemy**
+🌱 I’m currently learning **Dart / Flutter**
 
 ⚡ Fun fact **Bananas are berries, but strawberries aren’t!**
 
@@ -26,7 +26,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,dart,flutter,fastapi,mysql,postgresql,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=python,dart,flutter,mysql,postgresql,fastapi" /><br>
 </div>
 
 <br/>

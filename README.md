@@ -6,7 +6,7 @@
  
 🔭 I’m currently working on **Multi-Platform app**
  
-🌱 I’m currently learning **Isar**
+🌱 I’m currently learning **Scikit-Learn**
 
 ⚡ Fun fact **Bananas are berries, but strawberries aren’t!**
 

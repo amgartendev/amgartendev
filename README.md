@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm João, a full-stack developer from Portugal. I build cross-platform  apps (mainly iOS and Android) using Flutter. For the back-end I usually work with Python + FastAPI.<br><br>Right now I'm putting a lot of effort into becoming a Data Scientist and really diving deep into the world of data and Machine Learning.</p>
+<p align="left">Hi! I'm João, a full-stack developer. I build cross-platform  apps (mainly iOS and Android) using Flutter. For the back-end I usually work with Python + FastAPI.<br><br>Right now I'm putting a lot of effort into learning C.</p>
 
 ###
 

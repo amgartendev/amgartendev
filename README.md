@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Hi! I'm João, a full-stack developer. I build cross-platform apps (mainly iOS and Android) using Flutter. For the back-end I usually work with Python + FastAPI.<br><br>Right now I'm putting a lot of effort into learning C.</p>
+<p align="left">I'm currently working on my own C library, with my own data structures.</p>
 
 ###
 

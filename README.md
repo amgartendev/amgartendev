@@ -1,8 +1,8 @@
-<h2 align="left">Python and Mobile Developer</h2>
+<h2 align="left">C and Mobile Developer</h2>
 
 ###
 
-<p align="left">Hi! I'm João, a full-stack developer. I build cross-platform  apps (mainly iOS and Android) using Flutter. For the back-end I usually work with Python + FastAPI.<br><br>Right now I'm putting a lot of effort into learning C.</p>
+<p align="left">Hi! I'm João, a full-stack developer. I build cross-platform apps (mainly iOS and Android) using Flutter. For the back-end I usually work with Python + FastAPI.<br><br>Right now I'm putting a lot of effort into learning C.</p>
 
 ###
 

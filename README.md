@@ -32,12 +32,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amgartendev&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false&custom_title=My%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="left">
   <a href="https://www.linkedin.com/in/amgarten/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
